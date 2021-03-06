@@ -1,1 +1,0 @@
-sudo apt update && sudo apt full-upgrade && sudo apt install preload && sudo apt-get install ubuntu-restricted-extras && sudo apt-get install fish && chsh -s /usr/bin/fish && mkdir -p ~/.config/fish && reboot
